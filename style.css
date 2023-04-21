@@ -1,0 +1,116 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+.user-radio{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.grid{
+    height: 50vh;
+    width: 100vw;
+}
+.innerDiv{
+    display: flex;
+}
+#smallDiv1{
+    height: 50px;
+    width: 50px;
+    border: solid 2px rgb(133, 22, 22);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    cursor: pointer;
+}
+#smallDiv2{
+    height: 50px;
+    width: 50px;
+    border: solid 2px rgb(133, 22, 22);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    cursor: pointer;
+}
+#smallDiv3{
+    height: 50px;
+    width: 50px;
+    border: solid 2px rgb(133, 22, 22);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    cursor: pointer;
+}
+#smallDiv4{
+    height: 50px;
+    width: 50px;
+    border: solid 2px rgb(133, 22, 22);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    cursor: pointer;
+}
+#smallDiv5{
+    height: 50px;
+    width: 50px;
+    border: solid 2px rgb(133, 22, 22);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    cursor: pointer;
+}
+#smallDiv6{
+    height: 50px;
+    width: 50px;
+    border: solid 2px rgb(133, 22, 22);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    cursor: pointer;
+}
+#smallDiv7{
+    height: 50px;
+    width: 50px;
+    border: solid 2px rgb(133, 22, 22);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    cursor: pointer;
+}
+#smallDiv8{
+    height: 50px;
+    width: 50px;
+    border: solid 2px rgb(133, 22, 22);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    cursor: pointer;
+}
+#smallDiv9{
+    height: 50px;
+    width: 50px;
+    border: solid 2px rgb(133, 22, 22);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    cursor: pointer;
+}
+#smallDiv10{
+    height: 50px;
+    width: 50px;
+    border: solid 2px rgb(133, 22, 22);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    cursor: pointer;
+}
